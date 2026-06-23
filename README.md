@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,8 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+ Global-Video-Meet-with-Ai using react to build this project and integrate it with Zegocloud API which is online service based api you just have to create account on it and get unique id.
+Video to assemble the zego cloud-https://youtu.be/1rWf6s3Mjgg?si=oNhCB7crz4kDGUxu
+
+>>>>>>> fb37823aa0b217313a72a5a12e3d4a1efeffcca6
